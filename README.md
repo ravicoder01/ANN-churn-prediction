@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-AI%2FML-green)
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-blue)
 ---
 
 # 🚀 Live Application
