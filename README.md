@@ -55,11 +55,11 @@ The goal of this project is to:
 | Model Deployment   | Streamlit Web App             |
 
 ---
-
+```
 # 🏗️ Tech Stack
 
 |      Technology    |        Usage        |
-|----------=========-|---------------------|
+|--------------------|---------------------|
 | Python             | Programming         |
 | TensorFlow / Keras | Deep Learning       |
 | Pandas             | Data processing     |
@@ -69,7 +69,7 @@ The goal of this project is to:
 | GitHub             | Version Control     |
 
 ---
-
+```
 # 📊 Features Used
 
 | Feature | Description |
