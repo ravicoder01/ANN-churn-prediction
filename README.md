@@ -10,8 +10,9 @@
 
 👉 **Deployment Link**
 
-https://ann-churn-prediction-cbowphjase53yxwriuzcso.streamlit.app/
+# 🚀 Live Application
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-ff4b4b?logo=streamlit)](https://ann-churn-prediction-cbowphjase53yxwriuzcso.streamlit.app/)
 ---
 
 # 👨‍💻 Author
