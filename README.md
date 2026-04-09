@@ -17,7 +17,7 @@
 
 # 👨‍💻 Author
 
-|    Name      |    Education    |       Specialization                       |
+|    Name      |    Education    |           Specialization                   |
 |--------------|-----------------|--------------------------------------------|
 | **Ravi Raj** | B.Tech 3rd Year | Artificial Intelligence & Machine Learning |
 
