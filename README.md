@@ -46,7 +46,7 @@ The goal of this project is to:
 
 # 🧠 Machine Learning Workflow
 
-|        Step        |        Description            |
+|        Steps       |        Description            |
 |--------------------|-------------------------------|
 | Data Collection    | Customer churn dataset        |
 | Data Preprocessing | Encoding categorical features |
